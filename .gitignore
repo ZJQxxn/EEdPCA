@@ -1,0 +1,8 @@
+
+.idea/deployment.xml
+.idea/EEdPCA.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+*.xml
+data/ElectricityUsage/LD2011_2014.txt
+processed_data/ElectricityUsage.npy
