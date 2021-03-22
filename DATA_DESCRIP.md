@@ -15,8 +15,10 @@
 等操作。
 
 #### 实验分析
+
  我们的数据中 ```n_sample = 3```，另外4个维度是 ```num_month=12, num_day=20, num_interval=96, num_client=370```。
 需要：（1）分别分析4个维度的 component，（2）分析每个时间维度和 client 的 component，从不同的 timescale 来分析数据。
 
 
 ---------
+
